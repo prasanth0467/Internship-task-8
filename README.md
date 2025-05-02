@@ -23,8 +23,8 @@ Create a basic interactive dashboard to visualize sales performance by product c
 
 ## Deliverables
 - `dashboard task 8.png`(screenshot)
-- `Insights` (slide)
-- `Sample_Superstore.csv`(dataset)
+- `Insights.pdf` (slide)
+- `Sample-Superstore.csv`(dataset)
 
 ## Author 
 Majji Prasanth Reddy 
