@@ -1,7 +1,7 @@
 # Task 8: Simple Sales Dashboard Design
 
 ## Objective
-Create a basic interactive dashboard to visualize sales performance by product category, region, and month.
+Created a basic interactive dashboard to visualize sales performance by product category, region, and month.
 
 ## Tools Used
 - Power BI
